@@ -1,5 +1,5 @@
 const CACHE_NAME = 'v1_cache';
-const ASSETS = ['/', '/index.html'];
+const ASSETS = ['/', '/index.html', '/images/logo1.png', '/images/logo2.png'];
 
 // 1. Install Event (Caching core files)
 self.addEventListener('install', (e) => {
